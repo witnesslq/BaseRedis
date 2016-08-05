@@ -22,5 +22,7 @@ public class RedisList {
         for (int i = 0; i < 5; i++) {
             System.out.println(list.get(i));
         }
+        jedis.quit();
+        jedis.close();
     }
 }

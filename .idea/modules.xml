@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BaseRedis.iml" filepath="$PROJECT_DIR$/BaseRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoolRedis/PoolRedis.iml" filepath="$PROJECT_DIR$/PoolRedis/PoolRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoreObject/StoreObject.iml" filepath="$PROJECT_DIR$/StoreObject/StoreObject.iml" />
     </modules>
   </component>
 </project>

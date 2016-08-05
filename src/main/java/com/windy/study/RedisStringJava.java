@@ -12,8 +12,10 @@ public class RedisStringJava {
         //Connecting to Redis Server on localhost
         Jedis jedis = new Jedis("localhost");
         System.out.println("Connection to server successfully.");
-        //set the data in redis string
+        //set the data in model string
         jedis.set("name", "xiaoming");
-        System.out.println("the string name in the redis :" + jedis.get("name"));
+        System.out.println("the string name in the model :" + jedis.get("name"));
+        jedis.quit();
+        jedis.close();
     }
 }

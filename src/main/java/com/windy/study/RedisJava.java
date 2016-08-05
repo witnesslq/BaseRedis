@@ -14,5 +14,7 @@ public class RedisJava {
         System.out.println("Connection to server successfully.");
         //check whether server is running or not
         System.out.println("Server is running:" + jedis.ping());
+        jedis.quit();
+        jedis.close();
     }
 }

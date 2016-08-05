@@ -22,5 +22,7 @@ public class RedisKey {
         for(String str:set){
             System.out.println("List of stored keys:: "+str);
         }
+        jedis.quit();
+        jedis.close();
     }
 }
