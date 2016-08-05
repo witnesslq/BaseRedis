@@ -25,6 +25,7 @@
         <module name="BaseRedis" />
         <module name="JedisShardInfo" />
         <module name="PoolRedis" />
+        <module name="RedisSpring" />
         <module name="StoreObject" />
       </profile>
     </annotationProcessing>
@@ -32,6 +33,7 @@
       <module name="BaseRedis" target="1.7" />
       <module name="JedisShardInfo" target="1.7" />
       <module name="PoolRedis" target="1.7" />
+      <module name="RedisSpring" target="1.7" />
       <module name="StoreObject" target="1.7" />
     </bytecodeTargetLevel>
   </component>
