@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/StoreObject/pom.xml" />
         <option value="$PROJECT_DIR$/PoolRedis/pom.xml" />
+        <option value="$PROJECT_DIR$/JedisShardInfo/pom.xml" />
       </list>
     </option>
   </component>
