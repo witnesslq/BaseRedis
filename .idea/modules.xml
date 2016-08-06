@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/PoolRedis/PoolRedis.iml" filepath="$PROJECT_DIR$/PoolRedis/PoolRedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/RedisSpring/RedisSpring.iml" filepath="$PROJECT_DIR$/RedisSpring/RedisSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringDataRedis/SpringDataRedis.iml" filepath="$PROJECT_DIR$/SpringDataRedis/SpringDataRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringDataRedisList/SpringDataRedisList.iml" filepath="$PROJECT_DIR$/SpringDataRedisList/SpringDataRedisList.iml" />
       <module fileurl="file://$PROJECT_DIR$/StoreObject/StoreObject.iml" filepath="$PROJECT_DIR$/StoreObject/StoreObject.iml" />
     </modules>
   </component>

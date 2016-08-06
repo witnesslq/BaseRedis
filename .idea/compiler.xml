@@ -27,6 +27,7 @@
         <module name="PoolRedis" />
         <module name="RedisSpring" />
         <module name="SpringDataRedis" />
+        <module name="SpringDataRedisList" />
         <module name="StoreObject" />
       </profile>
     </annotationProcessing>
@@ -36,6 +37,7 @@
       <module name="PoolRedis" target="1.7" />
       <module name="RedisSpring" target="1.7" />
       <module name="SpringDataRedis" target="1.7" />
+      <module name="SpringDataRedisList" target="1.7" />
       <module name="StoreObject" target="1.7" />
     </bytecodeTargetLevel>
   </component>
